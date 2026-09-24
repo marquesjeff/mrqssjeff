@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mrqssjeff
-- 👀 I’m interested in horror movies, football and anime.
-- 🌱 I’m currently learning C# and Java.
+- 👋 Hi, My name is Jefferson Marques. @mrqssjeff
+- 👀 I’m interested in horror movies, football and hockey.
+- 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on fun projects.
-- 📫 How to reach me <--
-- ⚡ Fun fact: ...
+- 📫 How to reach me <-- marquesjeff@proton.me
+- ⚡ Fun fact: I am learning Swedish and German.
 
 <!---
 mrqssjeff/mrqssjeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
